@@ -109,11 +109,12 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <a href="https://linkedin.com/in/shaik-sumiya29">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:shaikchandani1107@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
